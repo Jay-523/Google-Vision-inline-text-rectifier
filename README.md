@@ -1,0 +1,1 @@
+# Google-Viision-inline-text-rectifier
