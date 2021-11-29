@@ -6,3 +6,4 @@ Connect the two bounding boxes whose centroids is differs less than the average 
 The first method is a dsu based approach where you can treat each word's centroid as a node and find connected component.<br>
 The second is using an unsupervised learning algorithm to cluster words based on their centroids y-coordinates.
 
+![Alt text](../difference.png?raw=true "Raw google vision vs rectified google vision")
